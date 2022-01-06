@@ -95,5 +95,19 @@ h2{
 .Projects{
     text-align: center;
 }
+.PJ{
+    width: 20%;
+   
+    margin-right: 50%;
+    padding-right: 50px;
+    border-radius: 0%;
+    box-shadow: 10px 10px 40px rgb(85, 49, 49);
+}
+.Project img{
+    width: 30%;
+    padding-right: 50%;
+    margin-top: 5%;
+}
+
 
 
