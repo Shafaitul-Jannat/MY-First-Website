@@ -14,6 +14,10 @@ h2{
 .Orange-color{
     color:orange;
 }
+.flexible-container{
+    display:flex;
+    margin-bottom: 150px;
+}
 .verticalLine {
     border-left:  thick solid #ff0000;
     
@@ -46,11 +50,11 @@ h2{
     text-align: center;
 }
 .mission-item{
-    width: 30%;
-    margin-left: 2%;
+    width: 50%;
+    margin-left: 5%;
     margin-right: 5%;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 5%;
     box-shadow: 10px 10px 40px white;
 }
@@ -70,4 +74,9 @@ h2{
 #Goals{
     text-align:  left;
     background-color: rgb(250, 224, 250);
+}
+.Develop{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
