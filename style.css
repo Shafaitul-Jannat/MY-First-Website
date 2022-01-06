@@ -4,11 +4,15 @@ body{
 }
 h1{
     font-size: 50px;
-    
-    position: right;
 }
 .pink-color{
     color:rgb(241, 72, 101);
+}
+h2{
+    font-size: 40px;
+}
+.Orange-color{
+    color:orange;
 }
 .verticalLine {
     border-left:  thick solid #ff0000;
@@ -37,3 +41,33 @@ h1{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.Mission-area{
+    text-align: center;
+}
+.mission-item{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 5%;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 40px white;
+}
+.illustrator img{
+    width: 40%;
+    padding-left: 0%;
+    margin-top: 5%;
+}
+#Vission{
+    text-align: left;
+    background-color: pink;
+}
+#Mission{
+    text-align:  left;
+    background-color: peachpuff;
+}
+#Goals{
+    text-align:  left;
+    background-color: rgb(250, 224, 250);
+}
