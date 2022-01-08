@@ -108,6 +108,17 @@ h2{
     padding-right: 50%;
     margin-top: 5%;
 }
+.footer{
+    color:white;
+    background-color: black;
+    font-family: 'Courgette', cursive;
+
+    text-align: center;
+    
+}
+.red{
+    color:rgb(190, 40, 65); 
+}
 
 
 
